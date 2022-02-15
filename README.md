@@ -1,1 +1,1 @@
-# TODO: Fill me out!
+Boot camp Day 1
